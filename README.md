@@ -1,2 +1,4 @@
 # process in making
-![Beginning](images/beginning.png)
+<p align="center">
+  <img src="images/beginning.png" width="400">
+</p>
